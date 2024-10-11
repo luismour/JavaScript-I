@@ -22,7 +22,7 @@ Antes de começar, certifique-se de ter os seguintes itens:
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/estudos-javascript.git
+    git clone https://github.com/luismour/JavaScript-I.git
     ```
 
 2. **Navegue até o diretório do projeto**:
